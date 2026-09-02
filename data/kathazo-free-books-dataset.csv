@@ -1,0 +1,11 @@
+title,description,genre,cover_url,status,is_for_sale
+Pride and Prejudice,"Elizabeth Bennet navigates love, class, and first impressions in Regency England.",Romance/Classic,,published,false
+Alice's Adventures in Wonderland,A young girl falls through a rabbit hole into a fantastical world of curious characters.,Fantasy/Classic,,published,false
+The Adventures of Sherlock Holmes,Twelve classic detective stories featuring Sherlock Holmes and Dr. Watson.,Mystery/Classic,,published,false
+Frankenstein,A scientist creates life and must confront the consequences of his creation.,Gothic/Horror,,published,false
+Dracula,The classic vampire novel told through letters and diary entries.,Gothic/Horror,,published,false
+The Picture of Dorian Gray,A man's portrait ages while he remains young as his soul grows corrupt.,Classic/Philosophical,,published,false
+Great Expectations,An orphan named Pip rises through society with the help of a mysterious benefactor.,Classic/Coming-of-age,,published,false
+Little Women,The lives loves and ambitions of the four March sisters.,Classic/Family,,published,false
+The Yellow Wallpaper,A woman's descent into madness told through her secret journal.,Short Story/Gothic,,published,false
+The Gift of the Magi,A young couple each sacrifice their most prized possession for the other's Christmas gift.,Short Story/Romance,,published,false
